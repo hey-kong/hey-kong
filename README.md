@@ -1,4 +1,6 @@
 ### Hi there 👋
 
-I am currently a 1st year Ph.D. student from School of Computer Science and Technology, Huazhong University of Science and Technology, supervised by Prof. Jiguang Wan.
-My research interests focus on computing and storage systems in cloud and edge environments, including: (1) data management; (2) edge-cloud collaborative computing systems; (3) computing and storage systems atop novel network/storage infrastructures (e.g., DPU).
+I am currently a first-year Ph.D. student at the School of Computer Science and Technology, Huazhong University of Science and Technology, under the supervision of Prof. Jiguang Wan.
+
+My research interests focus on data management, storage systems, and edge computing, with particular interests in workload analysis, efficient storage, novel network/storage infrastructures (e.g., DPU), and resource-efficient system design.
+
